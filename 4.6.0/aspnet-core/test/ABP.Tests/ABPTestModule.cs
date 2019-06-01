@@ -9,7 +9,7 @@ using Abp.Net.Mail;
 using Abp.TestBase;
 using Abp.Zero.Configuration;
 using Abp.Zero.EntityFrameworkCore;
-using ABP.EntityFrameworkCore;
+using ABP.EF;
 using ABP.Tests.DependencyInjection;
 
 namespace ABP.Tests

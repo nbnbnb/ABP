@@ -19,6 +19,6 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\ABP.Core\ABP.Core.csproj" />
-    <ProjectReference Include="..\ABP.EntityFrameworkCore\ABP.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\ABP.EntityFrameworkCore\ABP.EF.csproj" />
   </ItemGroup>
 </Project>

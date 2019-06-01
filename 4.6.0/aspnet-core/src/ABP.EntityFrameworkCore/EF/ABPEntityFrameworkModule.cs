@@ -2,9 +2,9 @@
 using Abp.Modules;
 using Abp.Reflection.Extensions;
 using Abp.Zero.EntityFrameworkCore;
-using ABP.EntityFrameworkCore.Seed;
+using ABP.EF.Seed;
 
-namespace ABP.EntityFrameworkCore
+namespace ABP.EF
 {
     [DependsOn(
         typeof(ABPCoreModule), 

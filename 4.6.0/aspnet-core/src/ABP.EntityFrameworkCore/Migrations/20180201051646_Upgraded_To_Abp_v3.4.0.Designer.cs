@@ -3,7 +3,7 @@ using Abp.Authorization;
 using Abp.BackgroundJobs;
 using Abp.Events.Bus.Entities;
 using Abp.Notifications;
-using ABP.EntityFrameworkCore;
+using ABP.EF;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;

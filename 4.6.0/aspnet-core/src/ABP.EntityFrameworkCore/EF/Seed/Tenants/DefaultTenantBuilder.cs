@@ -4,7 +4,7 @@ using Abp.MultiTenancy;
 using ABP.Editions;
 using ABP.MultiTenancy;
 
-namespace ABP.EntityFrameworkCore.Seed.Tenants
+namespace ABP.EF.Seed.Tenants
 {
     public class DefaultTenantBuilder
     {

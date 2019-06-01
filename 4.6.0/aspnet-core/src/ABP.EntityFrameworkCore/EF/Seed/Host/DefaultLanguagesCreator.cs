@@ -3,7 +3,7 @@ using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Abp.Localization;
 
-namespace ABP.EntityFrameworkCore.Seed.Host
+namespace ABP.EF.Seed.Host
 {
     public class DefaultLanguagesCreator
     {

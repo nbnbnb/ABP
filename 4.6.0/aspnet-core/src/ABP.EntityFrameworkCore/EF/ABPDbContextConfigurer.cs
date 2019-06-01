@@ -1,7 +1,7 @@
 using System.Data.Common;
 using Microsoft.EntityFrameworkCore;
 
-namespace ABP.EntityFrameworkCore
+namespace ABP.EF
 {
     public static class ABPDbContextConfigurer
     {

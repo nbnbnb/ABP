@@ -4,7 +4,7 @@ using ABP.Authorization.Roles;
 using ABP.Authorization.Users;
 using ABP.MultiTenancy;
 
-namespace ABP.EntityFrameworkCore
+namespace ABP.EF
 {
     public class ABPDbContext : AbpZeroDbContext<Tenant, Role, User, ABPDbContext>
     {

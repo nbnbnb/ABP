@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Castle.MicroKernel.Registration;
 using Castle.Windsor.MsDependencyInjection;
 using Abp.Dependency;
-using ABP.EntityFrameworkCore;
+using ABP.EF;
 using ABP.Identity;
 
 namespace ABP.Tests.DependencyInjection

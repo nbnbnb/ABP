@@ -4,7 +4,7 @@ using Abp.Application.Editions;
 using Abp.Application.Features;
 using ABP.Editions;
 
-namespace ABP.EntityFrameworkCore.Seed.Host
+namespace ABP.EF.Seed.Host
 {
     public class DefaultEditionCreator
     {

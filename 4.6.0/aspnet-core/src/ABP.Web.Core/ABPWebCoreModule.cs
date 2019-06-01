@@ -11,7 +11,7 @@ using Abp.Reflection.Extensions;
 using Abp.Zero.Configuration;
 using ABP.Authentication.JwtBearer;
 using ABP.Configuration;
-using ABP.EntityFrameworkCore;
+using ABP.EF;
 
 namespace ABP
 {

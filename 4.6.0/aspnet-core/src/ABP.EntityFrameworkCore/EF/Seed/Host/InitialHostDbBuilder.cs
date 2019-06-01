@@ -1,4 +1,4 @@
-﻿namespace ABP.EntityFrameworkCore.Seed.Host
+﻿namespace ABP.EF.Seed.Host
 {
     public class InitialHostDbBuilder
     {

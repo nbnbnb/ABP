@@ -8,8 +8,8 @@ using Abp.Domain.Uow;
 using Abp.Extensions;
 using Abp.MultiTenancy;
 using Abp.Runtime.Security;
-using ABP.EntityFrameworkCore;
-using ABP.EntityFrameworkCore.Seed;
+using ABP.EF;
+using ABP.EF.Seed;
 using ABP.MultiTenancy;
 
 namespace ABP.Migrator

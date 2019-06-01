@@ -5,10 +5,10 @@ using Abp.Dependency;
 using Abp.Domain.Uow;
 using Abp.EntityFrameworkCore.Uow;
 using Abp.MultiTenancy;
-using ABP.EntityFrameworkCore.Seed.Host;
-using ABP.EntityFrameworkCore.Seed.Tenants;
+using ABP.EF.Seed.Host;
+using ABP.EF.Seed.Tenants;
 
-namespace ABP.EntityFrameworkCore.Seed
+namespace ABP.EF.Seed
 {
     public static class SeedHelper
     {

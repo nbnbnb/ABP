@@ -17,7 +17,7 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\ABP.Application\ABP.Application.csproj" />
-    <ProjectReference Include="..\ABP.EntityFrameworkCore\ABP.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\ABP.EntityFrameworkCore\ABP.EF.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="System.ValueTuple" Version="4.5.0" />

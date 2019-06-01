@@ -10,7 +10,7 @@ using ABP.Authorization;
 using ABP.Authorization.Roles;
 using ABP.Authorization.Users;
 
-namespace ABP.EntityFrameworkCore.Seed.Tenants
+namespace ABP.EF.Seed.Tenants
 {
     public class TenantRoleAndUserBuilder
     {

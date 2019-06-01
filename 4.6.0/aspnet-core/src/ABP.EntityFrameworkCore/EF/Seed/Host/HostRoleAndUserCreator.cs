@@ -10,7 +10,7 @@ using ABP.Authorization.Users;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Options;
 
-namespace ABP.EntityFrameworkCore.Seed.Host
+namespace ABP.EF.Seed.Host
 {
     public class HostRoleAndUserCreator
     {

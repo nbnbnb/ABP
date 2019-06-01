@@ -12,7 +12,7 @@
   </PropertyGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\src\ABP.Application\ABP.Application.csproj" />
-    <ProjectReference Include="..\..\src\ABP.EntityFrameworkCore\ABP.EntityFrameworkCore.csproj" />
+    <ProjectReference Include="..\..\src\ABP.EntityFrameworkCore\ABP.EF.csproj" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.9.0" />

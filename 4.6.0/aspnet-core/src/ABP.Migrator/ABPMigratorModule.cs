@@ -4,7 +4,7 @@ using Abp.Events.Bus;
 using Abp.Modules;
 using Abp.Reflection.Extensions;
 using ABP.Configuration;
-using ABP.EntityFrameworkCore;
+using ABP.EF;
 using ABP.Migrator.DependencyInjection;
 
 namespace ABP.Migrator

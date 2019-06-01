@@ -4,7 +4,7 @@ using Microsoft.Extensions.Configuration;
 using ABP.Configuration;
 using ABP.Web;
 
-namespace ABP.EntityFrameworkCore
+namespace ABP.EF
 {
     /* This class is needed to run "dotnet ef ..." commands from command line on development. Not used anywhere else */
     public class ABPDbContextFactory : IDesignTimeDbContextFactory<ABPDbContext>

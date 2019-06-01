@@ -10,9 +10,9 @@ using Abp.MultiTenancy;
 using Abp.Runtime.Session;
 using Abp.TestBase;
 using ABP.Authorization.Users;
-using ABP.EntityFrameworkCore;
-using ABP.EntityFrameworkCore.Seed.Host;
-using ABP.EntityFrameworkCore.Seed.Tenants;
+using ABP.EF;
+using ABP.EF.Seed.Host;
+using ABP.EF.Seed.Tenants;
 using ABP.MultiTenancy;
 
 namespace ABP.Tests
