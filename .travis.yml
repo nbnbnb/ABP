@@ -1,0 +1,7 @@
+dist: xenial
+language: csharp
+mono: none
+dotnet: 2.2.100
+script: 
+ - dotnet build aspnet-core/Acme.SimpleTaskApp.sln
+ - dotnet test aspnet-core/test/Acme.SimpleTaskApp.Tests.csproj
